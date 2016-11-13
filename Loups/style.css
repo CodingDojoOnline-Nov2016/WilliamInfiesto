@@ -48,3 +48,37 @@ table {
 }
 
 /*END CSS RESET, BEGIN CUSTOM CSS*/
+#wrapper{
+  background-color: #f2f2f2;
+  width: 970px;
+}
+
+#header{
+  background-color: #d9d9d9;
+  width: 900px;
+  height: 90px;
+  border-radius: 20px;
+}
+
+#navigation{
+  background-color: #d9d9d9;
+  width: 250px;
+  height: 350px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+#content{
+  background-color: #b3b3b3;
+  width: 600px;
+  height: 450px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+#footer{
+  background-color: #d9d9d9;
+  width: 900px;
+  height: 90px;
+  border-radius: 20px;
+}
